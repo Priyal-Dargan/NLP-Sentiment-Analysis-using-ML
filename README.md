@@ -45,11 +45,10 @@ This project provided hands-on experience in **NLP for mental health**, **explai
 ---
 
 ## ▶️ Run the Notebook on Google Colab
-⚠️ **Note:** GitHub may not always render Colab notebooks correctly due to widget metadata.
+⚠️ GitHub may not render this notebook correctly due to widget metadata.
 
-To view and run the project without issues, open the notebook directly in Google Colab:
+👉 **[Open in Google Colab](https://colab.research.google.com/github/Priyal-Dargan/NLP-Sentiment-Analysis-using-ML/blob/main/PYML_PROJECT_ANVESHAN_FOUNDATION.ipynb)**
 
-👉 **[Open in Google Colab](PASTE_COLAB_LINK_HERE)**
 
 ---
 
